@@ -1,0 +1,4 @@
+This repository contains some scripts that I made about exploring a dataset about mushroom and applying machine learning algorithm to create a classification model. everything was coded in R. I also made a web application using the RShinny plaltform which I will provide the link below. Hope you guys enjoy this simple web application, and please leave some feedback so I can figure out how to make my creation better and more effective.  
+  
+link to the dataset: [https://www.kaggle.com/uciml/mushroom-classification](https://www.kaggle.com/uciml/mushroom-classification)  
+link to my web app: [https://mohariz.shinyapps.io/mushrroom_check/](https://mohariz.shinyapps.io/mushrroom_check/)

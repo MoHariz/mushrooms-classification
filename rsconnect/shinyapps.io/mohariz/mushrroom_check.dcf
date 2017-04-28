@@ -1,0 +1,11 @@
+name: mushrroom_check
+title: Mushrroom Check
+account: mohariz
+server: shinyapps.io
+appId: 175060
+bundleId: 802427
+url: https://mohariz.shinyapps.io/mushrroom_check/
+when: 1493091074.14637
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: images/pitcure credit.txt|images/sporeprint.jpg|scripts/mushroomCheck.R|scripts/mushroomsExploration.R
